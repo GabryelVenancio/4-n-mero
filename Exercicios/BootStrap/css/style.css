@@ -1,0 +1,13 @@
+.card {
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+.card-text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-title {
+    font-style: italic;
+}
